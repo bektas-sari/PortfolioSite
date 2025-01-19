@@ -1,0 +1,62 @@
+/* Genel sayfa düzeni */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+/* Sayfa arka planı ve içerik hizalaması */
+body {
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+/* Başlık ve menü stilleri */
+header {
+    background: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+nav ul li a:hover {
+    color: #00aaff;
+}
+
+/* Ana içerik bölümü */
+section {
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    margin-top: 50px;
+    padding: 10px;
+    background: #333;
+    color: #fff;
+}

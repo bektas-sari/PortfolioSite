@@ -1,4 +1,4 @@
-# Bektaş's Portfolio Website
+# Portfolio Website
 
 ## 🌐 Overview
 

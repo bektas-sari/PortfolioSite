@@ -1,5 +1,5 @@
 
-# Portfolio Sitesi (Tamamen deneme amaçlı olarak yapay zeka (Co-Pilot) ile oluşturulmaya çalışılmıştır )
+# Portfolio Sitesi - Tamamen deneme amaçlı olarak yapay zeka (Co-Pilot) ile oluşturulmaya çalışılmıştır
 
 Bu proje, modern, şık ve mobil uyumlu bir portfolio web sitesidir. 
 
